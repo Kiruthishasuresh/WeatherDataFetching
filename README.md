@@ -7,6 +7,8 @@ Project Structure:
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6fba2a0c-4cc7-4c52-91c8-a212445570f5" />
 
 
+
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0b80095c-8bfa-4ebb-9d9a-253d6e01cd63" />
 
 
@@ -17,19 +19,19 @@ Output:
 
 ALL Weather Data:
 
-<img width="500" height="500" alt="Screenshot 2026-02-26 091602" src="https://github.com/user-attachments/assets/7e06aa76-4302-4251-aea9-7a1d1d5fcc6c" />
+<img width="600" height="600" alt="Screenshot 2026-02-26 091602" src="https://github.com/user-attachments/assets/7e06aa76-4302-4251-aea9-7a1d1d5fcc6c" />
 
 Weather Data by Date:
 
-<img width="500" height="500" alt="Screenshot 2026-02-26 091812" src="https://github.com/user-attachments/assets/b95bb7fd-d98c-4773-b91e-06f9ae1addc7" />
+<img width="600" height="600" alt="Screenshot 2026-02-26 091812" src="https://github.com/user-attachments/assets/b95bb7fd-d98c-4773-b91e-06f9ae1addc7" />
 
 Weather Data by Month:
 
-<img width="500" height="500" alt="Screenshot 2026-02-26 091910" src="https://github.com/user-attachments/assets/d38d1536-2d80-4e17-9c18-21599e60eb07" />
+<img width="600" height="600" alt="Screenshot 2026-02-26 091910" src="https://github.com/user-attachments/assets/d38d1536-2d80-4e17-9c18-21599e60eb07" />
 
 Weather Data by Year:
 
-<img width="500" height="500" alt="Screenshot 2026-02-26 092003" src="https://github.com/user-attachments/assets/586d49ea-8e67-4eeb-9af2-7197df678615" />
+<img width="600" height="600" alt="Screenshot 2026-02-26 092003" src="https://github.com/user-attachments/assets/586d49ea-8e67-4eeb-9af2-7197df678615" />
 
 
 
